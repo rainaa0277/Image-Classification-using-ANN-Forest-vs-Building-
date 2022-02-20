@@ -1,0 +1,2 @@
+# Image-Classification-using-ANN-Forest-vs-Building-
+In this model we have tried to use ANN for image classification. We have learnt that ANN flattens the image pixels. This is why we loose some important information, and why ANN should not be preferred for image classification. How ever this project is solely based on the practicing and getting hands dirty and finding dis-advantages of an Architecture over another. 
